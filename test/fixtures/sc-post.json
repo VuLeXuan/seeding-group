@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "credits_remaining": 997,
+  "credits_charged": 1,
+  "post_id": "1000000000000001",
+  "shared_post_id": null,
+  "shared_post_url": null,
+  "is_paid_partnership": null,
+  "like_count": 4,
+  "comment_count": 9,
+  "reaction_counts": {
+    "thankful": 0,
+    "like": 4,
+    "love": 0,
+    "care": 0,
+    "haha": 0,
+    "wow": 0,
+    "sad": 0,
+    "anger": 0,
+    "pride": 0,
+    "confused": 0
+  },
+  "creation_time": "2026-11-18T03:00:00.000Z",
+  "share_count": 0,
+  "view_count": null,
+  "description": "Bài mẫu (đã thay nội dung thật).",
+  "feedback_id": "ZmVlZGJhY2s6MTAwMDAwMDAwMDAwMDAwMQ==",
+  "comments": [
+    {
+      "id": "Y29tbWVudDoxMDAwMDAwMDAwMDAwMDAxXzIwMDAwMDAwMDAwMDAwMDE=",
+      "author": {
+        "__typename": "User",
+        "id": "900000000001",
+        "name": "Người A"
+      },
+      "text": "Comment mẫu 1",
+      "reaction_count": 0,
+      "reactions": {
+        "thankful": 0,
+        "like": 0,
+        "love": 0,
+        "care": 0,
+        "haha": 0,
+        "wow": 0,
+        "sad": 0,
+        "anger": 0,
+        "pride": 0,
+        "confused": 0
+      }
+    },
+    {
+      "id": "Y29tbWVudDoxMDAwMDAwMDAwMDAwMDAxXzIwMDAwMDAwMDAwMDAwMDI=",
+      "author": {
+        "__typename": "User",
+        "id": "900000000002",
+        "name": "Người B"
+      },
+      "text": "Comment mẫu 2",
+      "reaction_count": 0,
+      "reactions": {
+        "thankful": 0,
+        "like": 0,
+        "love": 0,
+        "care": 0,
+        "haha": 0,
+        "wow": 0,
+        "sad": 0,
+        "anger": 0,
+        "pride": 0,
+        "confused": 0
+      }
+    },
+    {
+      "id": "Y29tbWVudDoxMDAwMDAwMDAwMDAwMDAxXzIwMDAwMDAwMDAwMDAwMDM=",
+      "author": {
+        "__typename": "User",
+        "id": "900000000003",
+        "name": "Người C"
+      },
+      "text": "Comment mẫu 3",
+      "reaction_count": 0,
+      "reactions": {
+        "thankful": 0,
+        "like": 0,
+        "love": 0,
+        "care": 0,
+        "haha": 0,
+        "wow": 0,
+        "sad": 0,
+        "anger": 0,
+        "pride": 0,
+        "confused": 0
+      }
+    }
+  ],
+  "url": "https://www.facebook.com/groups/100000000000001/permalink/1000000000000001/",
+  "link_attachment": null,
+  "videos": [],
+  "image_url": "https://example.invalid/post-1.jpg",
+  "images": [
+    "https://example.invalid/post-1.jpg",
+    "https://example.invalid/post-2.jpg"
+  ],
+  "thumbnail": null,
+  "author": {
+    "id": "900000000009",
+    "name": "Shop mẫu",
+    "handle": null,
+    "is_verified": null,
+    "url": null,
+    "image": "https://example.invalid/author.jpg"
+  },
+  "video": {
+    "id": null,
+    "sd_url": null,
+    "hd_url": null,
+    "height": null,
+    "width": null,
+    "length_in_second": null,
+    "thumbnail": null,
+    "captions_url": null
+  }
+}
